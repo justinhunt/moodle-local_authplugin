@@ -1,0 +1,13 @@
+Change List
+=========
+20181110
+added transcoder option to cloud poodll params and processing
+
+20180918
+added warning and up-load skins
+
+2018070500
+Added subtitle and appid params
+
+2018050800
+Initial commit of Cloud Poodll API

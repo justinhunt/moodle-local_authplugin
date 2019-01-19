@@ -1,0 +1,12 @@
+local_authplugin for authorising Moodle Plugijs
+------------------------------------------
+
+
+Installation
+--------------
+Download,unzip,rename Or git clone the plugin folder "authplugin" into the [path/to/moodle]/local folder.
+
+
+
+Justin
+https://poodll.com
