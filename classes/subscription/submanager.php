@@ -81,7 +81,7 @@ class submanager
         //make sure we do not already have this sub. And if so, just update it.
         $thesub = $DB->get_record(constants::SUB_TABLE, array('subscriptionid'=>$subid));
         if($thesub){
-            return self::update_sub($subid,$subname,$apps);
+            return self::update_sub($subid,$subname,$apps,$wildcard);
         }
 
         //add the sub
